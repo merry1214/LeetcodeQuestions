@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/merry1214/LeetcodeQuestions/tree/master/0063-unique-paths-ii) |
+| [0688-knight-probability-in-chessboard](https://github.com/merry1214/LeetcodeQuestions/tree/master/0688-knight-probability-in-chessboard) |
 ## Matrix
 |  |
 | ------- |
