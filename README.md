@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/merry1214/LeetcodeQuestions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1962-single-threaded-cpu](https://github.com/merry1214/LeetcodeQuestions/tree/master/1962-single-threaded-cpu) |
+| [2262-solving-questions-with-brainpower](https://github.com/merry1214/LeetcodeQuestions/tree/master/2262-solving-questions-with-brainpower) |
 ## Backtracking
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/merry1214/LeetcodeQuestions/tree/master/0063-unique-paths-ii) |
 | [0688-knight-probability-in-chessboard](https://github.com/merry1214/LeetcodeQuestions/tree/master/0688-knight-probability-in-chessboard) |
+| [2262-solving-questions-with-brainpower](https://github.com/merry1214/LeetcodeQuestions/tree/master/2262-solving-questions-with-brainpower) |
 ## Matrix
 |  |
 | ------- |
