@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/merry1214/LeetcodeQuestions/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/merry1214/LeetcodeQuestions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/merry1214/LeetcodeQuestions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/merry1214/LeetcodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1962-single-threaded-cpu](https://github.com/merry1214/LeetcodeQuestions/tree/master/1962-single-threaded-cpu) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/merry1214/LeetcodeQuestions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/merry1214/LeetcodeQuestions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/merry1214/LeetcodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1962-single-threaded-cpu](https://github.com/merry1214/LeetcodeQuestions/tree/master/1962-single-threaded-cpu) |
 ## Quickselect
