@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1962-single-threaded-cpu](https://github.com/merry1214/LeetcodeQuestions/tree/master/1962-single-threaded-cpu) |
 | [2262-solving-questions-with-brainpower](https://github.com/merry1214/LeetcodeQuestions/tree/master/2262-solving-questions-with-brainpower) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/merry1214/LeetcodeQuestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Backtracking
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/merry1214/LeetcodeQuestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Trie
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/merry1214/LeetcodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1962-single-threaded-cpu](https://github.com/merry1214/LeetcodeQuestions/tree/master/1962-single-threaded-cpu) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/merry1214/LeetcodeQuestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/merry1214/LeetcodeQuestions/tree/master/0023-merge-k-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/merry1214/LeetcodeQuestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
