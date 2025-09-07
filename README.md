@@ -101,21 +101,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/merry1214/LeetcodeQuestions/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/merry1214/LeetcodeQuestions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/merry1214/LeetcodeQuestions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/merry1214/LeetcodeQuestions/tree/master/0684-redundant-connection) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/merry1214/LeetcodeQuestions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Union Find
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/merry1214/LeetcodeQuestions/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/merry1214/LeetcodeQuestions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/merry1214/LeetcodeQuestions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/merry1214/LeetcodeQuestions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/merry1214/LeetcodeQuestions/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/merry1214/LeetcodeQuestions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/merry1214/LeetcodeQuestions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Linked List
 |  |
 | ------- |
