@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0506-relative-ranks](https://github.com/merry1214/LeetcodeQuestions/tree/master/0506-relative-ranks) |
 | [1032-satisfiability-of-equality-equations](https://github.com/merry1214/LeetcodeQuestions/tree/master/1032-satisfiability-of-equality-equations) |
+| [1380-number-of-closed-islands](https://github.com/merry1214/LeetcodeQuestions/tree/master/1380-number-of-closed-islands) |
 | [1962-single-threaded-cpu](https://github.com/merry1214/LeetcodeQuestions/tree/master/1962-single-threaded-cpu) |
 | [2262-solving-questions-with-brainpower](https://github.com/merry1214/LeetcodeQuestions/tree/master/2262-solving-questions-with-brainpower) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/merry1214/LeetcodeQuestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/merry1214/LeetcodeQuestions/tree/master/0063-unique-paths-ii) |
 | [0174-dungeon-game](https://github.com/merry1214/LeetcodeQuestions/tree/master/0174-dungeon-game) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/merry1214/LeetcodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1380-number-of-closed-islands](https://github.com/merry1214/LeetcodeQuestions/tree/master/1380-number-of-closed-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,11 +111,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/merry1214/LeetcodeQuestions/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/merry1214/LeetcodeQuestions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1380-number-of-closed-islands](https://github.com/merry1214/LeetcodeQuestions/tree/master/1380-number-of-closed-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/merry1214/LeetcodeQuestions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/merry1214/LeetcodeQuestions/tree/master/0684-redundant-connection) |
+| [1380-number-of-closed-islands](https://github.com/merry1214/LeetcodeQuestions/tree/master/1380-number-of-closed-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/merry1214/LeetcodeQuestions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Union Find
 |  |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/merry1214/LeetcodeQuestions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/merry1214/LeetcodeQuestions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/merry1214/LeetcodeQuestions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1380-number-of-closed-islands](https://github.com/merry1214/LeetcodeQuestions/tree/master/1380-number-of-closed-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/merry1214/LeetcodeQuestions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
