@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/merry1214/LeetcodeQuestions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/merry1214/LeetcodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/merry1214/LeetcodeQuestions/tree/master/0506-relative-ranks) |
 | [1032-satisfiability-of-equality-equations](https://github.com/merry1214/LeetcodeQuestions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1380-number-of-closed-islands](https://github.com/merry1214/LeetcodeQuestions/tree/master/1380-number-of-closed-islands) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/merry1214/LeetcodeQuestions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/merry1214/LeetcodeQuestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Trie
