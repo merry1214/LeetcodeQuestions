@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/merry1214/LeetcodeQuestions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0371-sum-of-two-integers](https://github.com/merry1214/LeetcodeQuestions/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/merry1214/LeetcodeQuestions/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Simulation
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/merry1214/LeetcodeQuestions/tree/master/0506-relative-ranks) |
 | [1032-satisfiability-of-equality-equations](https://github.com/merry1214/LeetcodeQuestions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1380-number-of-closed-islands](https://github.com/merry1214/LeetcodeQuestions/tree/master/1380-number-of-closed-islands) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/merry1214/LeetcodeQuestions/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1962-single-threaded-cpu](https://github.com/merry1214/LeetcodeQuestions/tree/master/1962-single-threaded-cpu) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/merry1214/LeetcodeQuestions/tree/master/2262-solving-questions-with-brainpower) |
@@ -81,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/merry1214/LeetcodeQuestions/tree/master/0174-dungeon-game) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/merry1214/LeetcodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1380-number-of-closed-islands](https://github.com/merry1214/LeetcodeQuestions/tree/master/1380-number-of-closed-islands) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/merry1214/LeetcodeQuestions/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/merry1214/LeetcodeQuestions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/merry1214/LeetcodeQuestions/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/merry1214/LeetcodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/merry1214/LeetcodeQuestions/tree/master/0506-relative-ranks) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/merry1214/LeetcodeQuestions/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1962-single-threaded-cpu](https://github.com/merry1214/LeetcodeQuestions/tree/master/1962-single-threaded-cpu) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/merry1214/LeetcodeQuestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Heap (Priority Queue)
@@ -103,11 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/merry1214/LeetcodeQuestions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/merry1214/LeetcodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/merry1214/LeetcodeQuestions/tree/master/0506-relative-ranks) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/merry1214/LeetcodeQuestions/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1962-single-threaded-cpu](https://github.com/merry1214/LeetcodeQuestions/tree/master/1962-single-threaded-cpu) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/merry1214/LeetcodeQuestions/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1860-find-kth-largest-xor-coordinate-value](https://github.com/merry1214/LeetcodeQuestions/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 <!---LeetCode Topics End-->
