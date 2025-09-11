@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/merry1214/LeetcodeQuestions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/merry1214/LeetcodeQuestions/tree/master/0089-gray-code) |
 | [0371-sum-of-two-integers](https://github.com/merry1214/LeetcodeQuestions/tree/master/0371-sum-of-two-integers) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/merry1214/LeetcodeQuestions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1380-number-of-closed-islands](https://github.com/merry1214/LeetcodeQuestions/tree/master/1380-number-of-closed-islands) |
 | [1962-single-threaded-cpu](https://github.com/merry1214/LeetcodeQuestions/tree/master/1962-single-threaded-cpu) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/merry1214/LeetcodeQuestions/tree/master/2262-solving-questions-with-brainpower) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/merry1214/LeetcodeQuestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Backtracking
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/merry1214/LeetcodeQuestions/tree/master/0164-maximum-gap) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
