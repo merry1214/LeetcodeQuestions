@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/merry1214/LeetcodeQuestions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0371-sum-of-two-integers](https://github.com/merry1214/LeetcodeQuestions/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1835-decode-xored-permutation](https://github.com/merry1214/LeetcodeQuestions/tree/master/1835-decode-xored-permutation) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/merry1214/LeetcodeQuestions/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Simulation
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/merry1214/LeetcodeQuestions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1308-smallest-string-with-swaps](https://github.com/merry1214/LeetcodeQuestions/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/merry1214/LeetcodeQuestions/tree/master/1380-number-of-closed-islands) |
+| [1835-decode-xored-permutation](https://github.com/merry1214/LeetcodeQuestions/tree/master/1835-decode-xored-permutation) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/merry1214/LeetcodeQuestions/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1962-single-threaded-cpu](https://github.com/merry1214/LeetcodeQuestions/tree/master/1962-single-threaded-cpu) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
