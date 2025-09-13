@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/merry1214/LeetcodeQuestions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1308-smallest-string-with-swaps](https://github.com/merry1214/LeetcodeQuestions/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/merry1214/LeetcodeQuestions/tree/master/1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](https://github.com/merry1214/LeetcodeQuestions/tree/master/1396-count-servers-that-communicate) |
 | [1835-decode-xored-permutation](https://github.com/merry1214/LeetcodeQuestions/tree/master/1835-decode-xored-permutation) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/merry1214/LeetcodeQuestions/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1962-single-threaded-cpu](https://github.com/merry1214/LeetcodeQuestions/tree/master/1962-single-threaded-cpu) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/merry1214/LeetcodeQuestions/tree/master/0174-dungeon-game) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/merry1214/LeetcodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1380-number-of-closed-islands](https://github.com/merry1214/LeetcodeQuestions/tree/master/1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](https://github.com/merry1214/LeetcodeQuestions/tree/master/1396-count-servers-that-communicate) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/merry1214/LeetcodeQuestions/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 ## Divide and Conquer
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/merry1214/LeetcodeQuestions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1308-smallest-string-with-swaps](https://github.com/merry1214/LeetcodeQuestions/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/merry1214/LeetcodeQuestions/tree/master/1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](https://github.com/merry1214/LeetcodeQuestions/tree/master/1396-count-servers-that-communicate) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/merry1214/LeetcodeQuestions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/merry1214/LeetcodeQuestions/tree/master/0684-redundant-connection) |
 | [1308-smallest-string-with-swaps](https://github.com/merry1214/LeetcodeQuestions/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/merry1214/LeetcodeQuestions/tree/master/1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](https://github.com/merry1214/LeetcodeQuestions/tree/master/1396-count-servers-that-communicate) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/merry1214/LeetcodeQuestions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Union Find
 |  |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/merry1214/LeetcodeQuestions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1308-smallest-string-with-swaps](https://github.com/merry1214/LeetcodeQuestions/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/merry1214/LeetcodeQuestions/tree/master/1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](https://github.com/merry1214/LeetcodeQuestions/tree/master/1396-count-servers-that-communicate) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/merry1214/LeetcodeQuestions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
@@ -190,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/merry1214/LeetcodeQuestions/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+## Counting
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/merry1214/LeetcodeQuestions/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
