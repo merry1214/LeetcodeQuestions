@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/merry1214/LeetcodeQuestions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/merry1214/LeetcodeQuestions/tree/master/0089-gray-code) |
 | [0371-sum-of-two-integers](https://github.com/merry1214/LeetcodeQuestions/tree/master/0371-sum-of-two-integers) |
+| [2083-three-divisors](https://github.com/merry1214/LeetcodeQuestions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/merry1214/LeetcodeQuestions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## String
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/merry1214/LeetcodeQuestions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/merry1214/LeetcodeQuestions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Prefix Sum
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/merry1214/LeetcodeQuestions/tree/master/1396-count-servers-that-communicate) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/merry1214/LeetcodeQuestions/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
