@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/merry1214/LeetcodeQuestions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/merry1214/LeetcodeQuestions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/merry1214/LeetcodeQuestions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/merry1214/LeetcodeQuestions/tree/master/0067-add-binary) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/merry1214/LeetcodeQuestions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Array
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/merry1214/LeetcodeQuestions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/merry1214/LeetcodeQuestions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/merry1214/LeetcodeQuestions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Prefix Sum
 |  |
 | ------- |
