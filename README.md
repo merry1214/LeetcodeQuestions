@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/merry1214/LeetcodeQuestions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/merry1214/LeetcodeQuestions/tree/master/0089-gray-code) |
+| [0204-count-primes](https://github.com/merry1214/LeetcodeQuestions/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/merry1214/LeetcodeQuestions/tree/master/0371-sum-of-two-integers) |
 | [2083-three-divisors](https://github.com/merry1214/LeetcodeQuestions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/merry1214/LeetcodeQuestions/tree/master/0078-subsets) |
 | [0164-maximum-gap](https://github.com/merry1214/LeetcodeQuestions/tree/master/0164-maximum-gap) |
 | [0174-dungeon-game](https://github.com/merry1214/LeetcodeQuestions/tree/master/0174-dungeon-game) |
+| [0204-count-primes](https://github.com/merry1214/LeetcodeQuestions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/merry1214/LeetcodeQuestions/tree/master/0260-single-number-iii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/merry1214/LeetcodeQuestions/tree/master/0318-maximum-product-of-word-lengths) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/merry1214/LeetcodeQuestions/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/merry1214/LeetcodeQuestions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/merry1214/LeetcodeQuestions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
@@ -207,5 +210,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/merry1214/LeetcodeQuestions/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/merry1214/LeetcodeQuestions/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
