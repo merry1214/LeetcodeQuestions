@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/merry1214/LeetcodeQuestions/tree/master/0067-add-binary) |
 | [0318-maximum-product-of-word-lengths](https://github.com/merry1214/LeetcodeQuestions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0649-dota2-senate](https://github.com/merry1214/LeetcodeQuestions/tree/master/0649-dota2-senate) |
 | [1032-satisfiability-of-equality-equations](https://github.com/merry1214/LeetcodeQuestions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/merry1214/LeetcodeQuestions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1308-smallest-string-with-swaps](https://github.com/merry1214/LeetcodeQuestions/tree/master/1308-smallest-string-with-swaps) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/merry1214/LeetcodeQuestions/tree/master/0649-dota2-senate) |
 | [1880-largest-merge-of-two-strings](https://github.com/merry1214/LeetcodeQuestions/tree/master/1880-largest-merge-of-two-strings) |
 ## Bucket Sort
 |  |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/merry1214/LeetcodeQuestions/tree/master/1002-maximum-width-ramp) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/merry1214/LeetcodeQuestions/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
