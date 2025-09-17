@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/merry1214/LeetcodeQuestions/tree/master/0506-relative-ranks) |
+| [1002-maximum-width-ramp](https://github.com/merry1214/LeetcodeQuestions/tree/master/1002-maximum-width-ramp) |
 | [1032-satisfiability-of-equality-equations](https://github.com/merry1214/LeetcodeQuestions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1308-smallest-string-with-swaps](https://github.com/merry1214/LeetcodeQuestions/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/merry1214/LeetcodeQuestions/tree/master/1380-number-of-closed-islands) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1002-maximum-width-ramp](https://github.com/merry1214/LeetcodeQuestions/tree/master/1002-maximum-width-ramp) |
 | [1880-largest-merge-of-two-strings](https://github.com/merry1214/LeetcodeQuestions/tree/master/1880-largest-merge-of-two-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/merry1214/LeetcodeQuestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
@@ -215,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/merry1214/LeetcodeQuestions/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/merry1214/LeetcodeQuestions/tree/master/2083-three-divisors) |
+## Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/merry1214/LeetcodeQuestions/tree/master/1002-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/merry1214/LeetcodeQuestions/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
