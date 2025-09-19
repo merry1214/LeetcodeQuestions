@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/merry1214/LeetcodeQuestions/tree/master/0089-gray-code) |
 | [0204-count-primes](https://github.com/merry1214/LeetcodeQuestions/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/merry1214/LeetcodeQuestions/tree/master/0371-sum-of-two-integers) |
+| [0897-prime-palindrome](https://github.com/merry1214/LeetcodeQuestions/tree/master/0897-prime-palindrome) |
 | [2083-three-divisors](https://github.com/merry1214/LeetcodeQuestions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/merry1214/LeetcodeQuestions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/merry1214/LeetcodeQuestions/tree/master/0204-count-primes) |
+| [0897-prime-palindrome](https://github.com/merry1214/LeetcodeQuestions/tree/master/0897-prime-palindrome) |
 | [2083-three-divisors](https://github.com/merry1214/LeetcodeQuestions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/merry1214/LeetcodeQuestions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
