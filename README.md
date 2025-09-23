@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/merry1214/LeetcodeQuestions/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/merry1214/LeetcodeQuestions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/merry1214/LeetcodeQuestions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/merry1214/LeetcodeQuestions/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/merry1214/LeetcodeQuestions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/merry1214/LeetcodeQuestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/merry1214/LeetcodeQuestions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1308-smallest-string-with-swaps](https://github.com/merry1214/LeetcodeQuestions/tree/master/1308-smallest-string-with-swaps) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/merry1214/LeetcodeQuestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Trie
 |  |
 | ------- |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/merry1214/LeetcodeQuestions/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/merry1214/LeetcodeQuestions/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/merry1214/LeetcodeQuestions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
