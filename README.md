@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/merry1214/LeetcodeQuestions/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/merry1214/LeetcodeQuestions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/merry1214/LeetcodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/merry1214/LeetcodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0318-maximum-product-of-word-lengths](https://github.com/merry1214/LeetcodeQuestions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0649-dota2-senate](https://github.com/merry1214/LeetcodeQuestions/tree/master/0649-dota2-senate) |
 | [1032-satisfiability-of-equality-equations](https://github.com/merry1214/LeetcodeQuestions/tree/master/1032-satisfiability-of-equality-equations) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/merry1214/LeetcodeQuestions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/merry1214/LeetcodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/merry1214/LeetcodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1397-search-suggestions-system](https://github.com/merry1214/LeetcodeQuestions/tree/master/1397-search-suggestions-system) |
 ## Dynamic Programming
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/merry1214/LeetcodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0684-redundant-connection](https://github.com/merry1214/LeetcodeQuestions/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/merry1214/LeetcodeQuestions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1308-smallest-string-with-swaps](https://github.com/merry1214/LeetcodeQuestions/tree/master/1308-smallest-string-with-swaps) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/merry1214/LeetcodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/merry1214/LeetcodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Memoization
 |  |
 | ------- |
