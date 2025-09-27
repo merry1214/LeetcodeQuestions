@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/merry1214/LeetcodeQuestions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/merry1214/LeetcodeQuestions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1308-smallest-string-with-swaps](https://github.com/merry1214/LeetcodeQuestions/tree/master/1308-smallest-string-with-swaps) |
+| [1397-search-suggestions-system](https://github.com/merry1214/LeetcodeQuestions/tree/master/1397-search-suggestions-system) |
 | [1880-largest-merge-of-two-strings](https://github.com/merry1214/LeetcodeQuestions/tree/master/1880-largest-merge-of-two-strings) |
 ## Bit Manipulation
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/merry1214/LeetcodeQuestions/tree/master/1308-smallest-string-with-swaps) |
 | [1380-number-of-closed-islands](https://github.com/merry1214/LeetcodeQuestions/tree/master/1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](https://github.com/merry1214/LeetcodeQuestions/tree/master/1396-count-servers-that-communicate) |
+| [1397-search-suggestions-system](https://github.com/merry1214/LeetcodeQuestions/tree/master/1397-search-suggestions-system) |
 | [1835-decode-xored-permutation](https://github.com/merry1214/LeetcodeQuestions/tree/master/1835-decode-xored-permutation) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/merry1214/LeetcodeQuestions/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1962-single-threaded-cpu](https://github.com/merry1214/LeetcodeQuestions/tree/master/1962-single-threaded-cpu) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/merry1214/LeetcodeQuestions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/merry1214/LeetcodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1397-search-suggestions-system](https://github.com/merry1214/LeetcodeQuestions/tree/master/1397-search-suggestions-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/merry1214/LeetcodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/merry1214/LeetcodeQuestions/tree/master/0506-relative-ranks) |
 | [1308-smallest-string-with-swaps](https://github.com/merry1214/LeetcodeQuestions/tree/master/1308-smallest-string-with-swaps) |
+| [1397-search-suggestions-system](https://github.com/merry1214/LeetcodeQuestions/tree/master/1397-search-suggestions-system) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/merry1214/LeetcodeQuestions/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1962-single-threaded-cpu](https://github.com/merry1214/LeetcodeQuestions/tree/master/1962-single-threaded-cpu) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/merry1214/LeetcodeQuestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/merry1214/LeetcodeQuestions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/merry1214/LeetcodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/merry1214/LeetcodeQuestions/tree/master/0506-relative-ranks) |
+| [1397-search-suggestions-system](https://github.com/merry1214/LeetcodeQuestions/tree/master/1397-search-suggestions-system) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/merry1214/LeetcodeQuestions/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1962-single-threaded-cpu](https://github.com/merry1214/LeetcodeQuestions/tree/master/1962-single-threaded-cpu) |
 ## Quickselect
@@ -151,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/merry1214/LeetcodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1397-search-suggestions-system](https://github.com/merry1214/LeetcodeQuestions/tree/master/1397-search-suggestions-system) |
 ## Depth-First Search
 |  |
 | ------- |
