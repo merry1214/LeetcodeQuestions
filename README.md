@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/merry1214/LeetcodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0318-maximum-product-of-word-lengths](https://github.com/merry1214/LeetcodeQuestions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0649-dota2-senate](https://github.com/merry1214/LeetcodeQuestions/tree/master/0649-dota2-senate) |
+| [0808-number-of-matching-subsequences](https://github.com/merry1214/LeetcodeQuestions/tree/master/0808-number-of-matching-subsequences) |
 | [1032-satisfiability-of-equality-equations](https://github.com/merry1214/LeetcodeQuestions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/merry1214/LeetcodeQuestions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1308-smallest-string-with-swaps](https://github.com/merry1214/LeetcodeQuestions/tree/master/1308-smallest-string-with-swaps) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/merry1214/LeetcodeQuestions/tree/master/0506-relative-ranks) |
+| [0808-number-of-matching-subsequences](https://github.com/merry1214/LeetcodeQuestions/tree/master/0808-number-of-matching-subsequences) |
 | [1002-maximum-width-ramp](https://github.com/merry1214/LeetcodeQuestions/tree/master/1002-maximum-width-ramp) |
 | [1032-satisfiability-of-equality-equations](https://github.com/merry1214/LeetcodeQuestions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1308-smallest-string-with-swaps](https://github.com/merry1214/LeetcodeQuestions/tree/master/1308-smallest-string-with-swaps) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/merry1214/LeetcodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0808-number-of-matching-subsequences](https://github.com/merry1214/LeetcodeQuestions/tree/master/0808-number-of-matching-subsequences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/merry1214/LeetcodeQuestions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1308-smallest-string-with-swaps](https://github.com/merry1214/LeetcodeQuestions/tree/master/1308-smallest-string-with-swaps) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/merry1214/LeetcodeQuestions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/merry1214/LeetcodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/merry1214/LeetcodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0808-number-of-matching-subsequences](https://github.com/merry1214/LeetcodeQuestions/tree/master/0808-number-of-matching-subsequences) |
 | [1397-search-suggestions-system](https://github.com/merry1214/LeetcodeQuestions/tree/master/1397-search-suggestions-system) |
 ## Dynamic Programming
 |  |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/merry1214/LeetcodeQuestions/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/merry1214/LeetcodeQuestions/tree/master/0174-dungeon-game) |
 | [0688-knight-probability-in-chessboard](https://github.com/merry1214/LeetcodeQuestions/tree/master/0688-knight-probability-in-chessboard) |
+| [0808-number-of-matching-subsequences](https://github.com/merry1214/LeetcodeQuestions/tree/master/0808-number-of-matching-subsequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/merry1214/LeetcodeQuestions/tree/master/2262-solving-questions-with-brainpower) |
 ## Matrix
 |  |
@@ -133,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/merry1214/LeetcodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/merry1214/LeetcodeQuestions/tree/master/0506-relative-ranks) |
+| [0808-number-of-matching-subsequences](https://github.com/merry1214/LeetcodeQuestions/tree/master/0808-number-of-matching-subsequences) |
 | [1308-smallest-string-with-swaps](https://github.com/merry1214/LeetcodeQuestions/tree/master/1308-smallest-string-with-swaps) |
 | [1397-search-suggestions-system](https://github.com/merry1214/LeetcodeQuestions/tree/master/1397-search-suggestions-system) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/merry1214/LeetcodeQuestions/tree/master/1860-find-kth-largest-xor-coordinate-value) |
@@ -158,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/merry1214/LeetcodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0808-number-of-matching-subsequences](https://github.com/merry1214/LeetcodeQuestions/tree/master/0808-number-of-matching-subsequences) |
 | [1397-search-suggestions-system](https://github.com/merry1214/LeetcodeQuestions/tree/master/1397-search-suggestions-system) |
 ## Depth-First Search
 |  |
