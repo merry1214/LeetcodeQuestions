@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/merry1214/LeetcodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0318-maximum-product-of-word-lengths](https://github.com/merry1214/LeetcodeQuestions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0649-dota2-senate](https://github.com/merry1214/LeetcodeQuestions/tree/master/0649-dota2-senate) |
+| [0677-map-sum-pairs](https://github.com/merry1214/LeetcodeQuestions/tree/master/0677-map-sum-pairs) |
 | [0808-number-of-matching-subsequences](https://github.com/merry1214/LeetcodeQuestions/tree/master/0808-number-of-matching-subsequences) |
 | [1032-satisfiability-of-equality-equations](https://github.com/merry1214/LeetcodeQuestions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/merry1214/LeetcodeQuestions/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/merry1214/LeetcodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0677-map-sum-pairs](https://github.com/merry1214/LeetcodeQuestions/tree/master/0677-map-sum-pairs) |
 | [0808-number-of-matching-subsequences](https://github.com/merry1214/LeetcodeQuestions/tree/master/0808-number-of-matching-subsequences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/merry1214/LeetcodeQuestions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1308-smallest-string-with-swaps](https://github.com/merry1214/LeetcodeQuestions/tree/master/1308-smallest-string-with-swaps) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/merry1214/LeetcodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/merry1214/LeetcodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/merry1214/LeetcodeQuestions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0677-map-sum-pairs](https://github.com/merry1214/LeetcodeQuestions/tree/master/0677-map-sum-pairs) |
 | [0808-number-of-matching-subsequences](https://github.com/merry1214/LeetcodeQuestions/tree/master/0808-number-of-matching-subsequences) |
 | [1397-search-suggestions-system](https://github.com/merry1214/LeetcodeQuestions/tree/master/1397-search-suggestions-system) |
 ## Dynamic Programming
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/merry1214/LeetcodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/merry1214/LeetcodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0677-map-sum-pairs](https://github.com/merry1214/LeetcodeQuestions/tree/master/0677-map-sum-pairs) |
 ## Memoization
 |  |
 | ------- |
